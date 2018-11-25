@@ -1,0 +1,14 @@
+tr, td {
+  border: 1px solid black
+}
+
+
+.grid {
+  margin: 1px;
+  padding: 0px;
+  border: none;
+  outline: 1px solid #000;
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+}
